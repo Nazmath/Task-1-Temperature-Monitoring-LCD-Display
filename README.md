@@ -84,3 +84,11 @@ Embedded system simulation and validation
 
 🔗 Simulation Link
 https://wokwi.com/projects/457454429057026049
+## 🖼 Circuit Diagram
+![Circuit Diagram](circuit.png)
+
+## 📟 Output Screenshot
+![Output Screenshot](output.png)
+
+## Code and Circuit with Output 
+![Output Screenshot](code and circuit with output.png)
