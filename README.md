@@ -91,4 +91,4 @@ https://wokwi.com/projects/457454429057026049
 ![Output Screenshot](output.png)
 
 ## Code and Circuit with Output 
-![Output Screenshot](code and circuit with output.png)
+![Output Screenshot](Code and Circuit with output.png)
